@@ -1,0 +1,2 @@
+# Art-Coin
+ Crypto Template
