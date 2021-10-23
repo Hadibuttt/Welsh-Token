@@ -52,7 +52,7 @@
                             <div class="elementor-element elementor-element-974c796 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="974c796" data-element_type="widget" data-widget_type="theme-site-logo.default">
                                 <div class="elementor-widget-container">
                                     <a href="#">
-							<img width="180" height="48" src="./Assets/imgs/imgs1/Art-Coin-Logo.png" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+							<img style="margin-top: -4px;" height="180"    src="./Assets/imgs/imgs1/logo.png" class="attachment-full size-full" alt="" loading="lazy" />								</a>
                                 </div>
                             </div>
                         </div>
@@ -160,7 +160,7 @@
                                     <div class="elementor-button-wrapper">
                                         <a href="#" class="elementor-button-lin elementor-button elementor-size-s border-radius-sm" role="button" style="background: none">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text button-contact"><span>Contact Us</span><span>Dummy Address, Abc City, Country</span></span>
+						<span class="elementor-button-text button-contact"><span>Contract Address</span><span>0xff52ad7ebb7414f45d78f3f71bbfb03504f53723</span></span>
 						
 		</span>
 					</a>
@@ -917,51 +917,8 @@
                 </div>
             </div>
         </section>
-        <section class="elementor-section elementor-top-section elementor-element elementor-element-cd9f6b0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cd9f6b0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-            <div class="elementor-container elementor-column-gap-default">
-                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-abc9f45" data-id="abc9f45" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-167958f elementor-widget elementor-widget-heading" data-id="167958f" data-element_type="widget" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h4 class="elementor-heading-title elementor-size-default">MOBILE APP</h4>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-8e19c46 elementor-invisible elementor-widget elementor-widget-heading" data-id="8e19c46" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">BrandCoin App for ICO Platform</h2>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-1effff0 elementor-widget elementor-widget-text-editor" data-id="1effff0" data-element_type="widget" data-widget_type="text-editor.default">
-                            <div class="elementor-widget-container">
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit edi ese cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-80262d3 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="80262d3" data-element_type="widget" data-widget_type="image.default">
-                            <div class="elementor-widget-container">
-                                <img width="169" height="50" src="./Assets/imgs/imgs1/appstore-icon.png" class="elementor-animation-float attachment-large size-large" alt="" loading="lazy" />                                </div>
-                        </div>
-                        <div class="elementor-element elementor-element-d1affbd elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="d1affbd" data-element_type="widget" data-widget_type="image.default">
-                            <div class="elementor-widget-container">
-                                <img width="170" height="50" src="./Assets/imgs/imgs1/Playstore.png" class="elementor-animation-float attachment-large size-large" alt="" loading="lazy" /> </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1311091" data-id="1311091" data-element_type="column">
-                    <div class="elementor-widget-wrap elementor-element-populated">
-                        <div class="elementor-element elementor-element-d5aa3f4 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="d5aa3f4" data-element_type="widget" data-widget_type="image.default">
-                            <div class="elementor-widget-container">
-                                <img width="256" height="552" src="./Assets/imgs/imgs1/mobiles1.png" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy" srcset="./Assets/imgs/imgs1/mobiles1.png 256w, ./Assets/imgs/imgs1/mobiles1-139x300.png 139w"
-                                    sizes="(max-width: 256px) 100vw, 256px" /> </div>
-                        </div>
-                        <div class="elementor-element elementor-element-fbca553 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="fbca553" data-element_type="widget" data-widget_type="image.default">
-                            <div class="elementor-widget-container">
-                                <img width="257" height="554" src="./Assets/imgs/imgs1/Crypto-moble-img2-1.png" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy" srcset="./Assets/imgs/imgs1/Crypto-moble-img2-1.png 257w, ./Assets/imgs/imgs1/Crypto-moble-img2-1-139x300.png 139w"
-                                    sizes="(max-width: 257px) 100vw, 257px" /> </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <br><br><br><br><br>
+
         <section class="elementor-section elementor-top-section elementor-element elementor-element-19e36a6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19e36a6" data-element_type="section">
             <div class="elementor-container elementor-column-gap-default">
                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e512f61" data-id="e512f61" data-element_type="column">
