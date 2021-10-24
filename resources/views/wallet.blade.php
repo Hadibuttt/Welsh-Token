@@ -55,7 +55,7 @@
                             <div class="elementor-element elementor-element-974c796 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="974c796" data-element_type="widget" data-widget_type="theme-site-logo.default">
                                 <div class="elementor-widget-container">
                                     <a href="#">
-							<img width="180" height="48" src="./Assets/imgs/imgs1/Art-Coin-Logo.png" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+                                        <img style="margin-top: -4px;" height="180"    src="./Assets/imgs/imgs1/logo.png" class="attachment-full size-full" alt="" loading="lazy" />							</a>
                                 </div>
                             </div>
                         </div>
@@ -644,7 +644,7 @@
                                             <div class="elementor-element elementor-element-46fa2e4 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="46fa2e4" data-element_type="widget" data-widget_type="theme-site-logo.default">
                                                 <div class="elementor-widget-container">
                                                     <a href="#">
-							<img width="180" height="48" src="./Assets/imgs/imgs1/Art-Coin-Logo.png" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+                                                        <img style="margin-left: -3rem;" height="180"    src="./Assets/imgs/imgs1/logo.png" class="attachment-full size-full" alt="" loading="lazy" />								</a>
                                                 </div>
                                             </div>
                                         </div>

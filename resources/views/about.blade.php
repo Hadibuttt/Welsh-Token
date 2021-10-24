@@ -60,7 +60,7 @@
                             <div class="elementor-element elementor-element-974c796 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="974c796" data-element_type="widget" data-widget_type="theme-site-logo.default">
                                 <div class="elementor-widget-container">
                                     <a href="#">
-							<img width="180" height="48" src="./Assets/imgs/imgs1/Art-Coin-Logo.png" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+                                        <img style="margin-top: -4px;" height="180"    src="./Assets/imgs/imgs1/logo.png" class="attachment-full size-full" alt="" loading="lazy" />								</a>
                                 </div>
                             </div>
                         </div>
@@ -290,7 +290,7 @@
                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-45a014f" data-id="45a014f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                         <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-d39a5f1 elementor-aspect-ratio-32 elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-invisible elementor-widget elementor-widget-video" data-id="d39a5f1" data-element_type="widget"
-                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E&quot;,&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/elementorpress.com\/templatekit-pro\/layout19\/wp-content\/uploads\/2021\/08\/Video-overly-img.jpg&quot;,&quot;id&quot;:521,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;aspect_ratio&quot;:&quot;32&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}"
+                                data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=JuoKoTE8AVM&quot;,&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/elementorpress.com\/templatekit-pro\/layout19\/wp-content\/uploads\/2021\/08\/Video-overly-img.jpg&quot;,&quot;id&quot;:521,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;aspect_ratio&quot;:&quot;32&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}"
                                 data-widget_type="video.default">
                                 <div class="elementor-widget-container">
                                     <div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
@@ -845,7 +845,7 @@
                                             <div class="elementor-element elementor-element-46fa2e4 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="46fa2e4" data-element_type="widget" data-widget_type="theme-site-logo.default">
                                                 <div class="elementor-widget-container">
                                                     <a href="#">
-							<img width="180" height="48" src="./Assets/imgs/imgs1/Art-Coin-Logo.png" class="attachment-full size-full" alt="" loading="lazy" />								</a>
+                                                        <img style="margin-left: -3rem;" height="180"    src="./Assets/imgs/imgs1/logo.png" class="attachment-full size-full" alt="" loading="lazy" />							</a>
                                                 </div>
                                             </div>
                                         </div>
